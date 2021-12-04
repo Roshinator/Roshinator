@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 #### 🔭 My Current Projects
-- [Tankista](rrsoftware.github.io): Retro Tanks, Reimagined.
-- Game-Boy-Inator: My first attempt at emulation.
+- [Tankista](https://rrsoftware.github.io): Retro Tanks, Reimagined.
+- [Game-Boy-Inator](https://github.com/roshinator/game-boy-inator): My first attempt at emulation.
 
 <!--
 **Roshinator/Roshinator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
