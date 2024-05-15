@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### 🔭 My Current Projects
-- [Tankista](https://rrsoftware.github.io): Retro Tanks, Reimagined.
+- [Tankken](https://rrsoftware.github.io): Retro Tanks, Reimagined.
 - [Game-Boy-Inator](https://github.com/roshinator/game-boy-inator): My first attempt at emulation.
 
 <!--
